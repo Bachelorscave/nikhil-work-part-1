@@ -21,7 +21,7 @@ extensions.configure(com.facebook.react.ReactSettingsExtension) { ex ->
   }
 }
 
-rootProject.name = 'BachelorsCave'
+rootProject.name = 'Bachelors Cave'
 
 dependencyResolutionManagement {
   versionCatalogs {

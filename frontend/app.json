@@ -31,8 +31,9 @@
     "scheme": "bachelorscave",
     "extra": {
       "eas": {
-        "projectId": "bachelors-cave"
+        "projectId": "ec778bfc-f139-44b5-a648-11a57acd881c"
       }
-    }
+    },
+    "owner": "nikhl"
   }
-} 
+}
